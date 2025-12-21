@@ -1,0 +1,86 @@
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal
+sur
+Preamble
+
+CERN has developed this Licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs.
+
+The Recipient acknowledges that the Licensor may have no control over the manufacturing of any Product and acts on an "AS-IS" basis.
+
+1. Definitions
+
+1.1 "Licence" means this CERN Open Hardware Licence Version 2 - Weakly Reciprocal.
+
+1.2 "Source" means information commonly used for a person skilled in the art to Design, make or test a Product. This includes but is not limited to:
+  a) schematics, layout, artwork and electrical rules (for instance in the case of printed circuit board assemblies), and/or
+  b) mechanical drawings, CAD models and fabrication specifications (for instance in the case of mechanical works), and/or
+  c) HDL source code, netlists and synthesis constraints (for instance in the case of programmable logic), and/or
+  d) software source code, firmware and design data (for instance in the case of software).
+
+1.3 "Product" means any device, component, system or software which is made using the Source or Modified Source.
+
+1.4 "Design" means the creation of Source or Modified Source.
+
+1.5 "Licensor" means the individual or entity that offers the Source to the Recipient under this Licence.
+
+1.6 "Recipient" means any individual or entity exercising rights under this Licence.
+
+1.7 "Modifications" means any change to the Source.
+
+1.8 "Modified Source" means Source with Modifications.
+
+1.9 "Available Component" means any part, sub-assembly, library or code which:
+  a) is licensed to the Recipient under a compliant licence (as defined in Section 1.10), or
+  b) is available to the Recipient, with the permission to make and sell Products, under proprietary or other terms, provided that the part, sub-assembly, library or code does not include Modifications to the Source.
+
+1.10 "Compliant Licence" means a licence that guarantees the Recipient the freedom to use, study, modify and share the Source, and (where applicable) to make and sell Products.
+
+1.11 "Covered Source" means the Source or Modified Source, excluding Available Components.
+
+2. Scope
+
+2.1 This Licence applies to any Source or Modified Source that contains a notice placed by the Licensor or a subsequent Recipient saying it is subject to the terms of this Licence.
+
+2.2 This Licence covers the Source and Modified Source, but not the Products themselves, except as required by Section 3.
+
+3. Copying, Modifying and Conveying Covered Source
+
+3.1 The Recipient may copy, modify and convey Covered Source under the terms of this Licence.
+
+3.2 When conveying Covered Source, the Recipient must provide a copy of this Licence and all notices referred to in Section 2.1.
+
+3.3 When conveying Modified Source, the Recipient must:
+  a) clearly identify the Modifications in the Source (for example, by including a change log or equivalent);
+  b) retain all existing copyright, patent and trademark notices; and
+  c) licence the Modifications under this Licence.
+
+4. Making and Selling Products
+
+4.1 The Recipient may make and sell Products using Covered Source.
+
+4.2 When the Recipient sells or distributes a Product, they must make the Covered Source for that Product available to the recipient of the Product under the terms of this Licence. The Covered Source must be provided in a format that is practical for editing and manufacturing.
+
+4.3 The obligation in Section 4.2 does not apply if the Product is not sold or distributed (for example, if it is used only internally by the Recipient).
+
+5. No Warranty and Liability
+
+5.1 The Source is provided "as is" and without any warranty of any kind, whether express, implied or statutory, including but not limited to warranties of merchantability, fitness for a particular purpose, title or non-infringement.
+
+5.2 In no event shall the Licensor be liable for any direct, indirect, special, incidental or consequential damages arising out of or in connection with the use of the Source or the Product, whether or not the Licensor has been advised of the possibility of such damages.
+
+6. Patents
+
+6.1 Subject to the terms and conditions of this Licence, each Licensor hereby grants to the Recipient a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Source, where such license applies only to those patent claims licensable by such Licensor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Source to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Source or a Contribution incorporated within the Source constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Source shall terminate as of the date such litigation is filed.
+
+7. Trademarks
+
+7.1 This Licence does not grant any permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Source and reproducing the content of the NOTICE file.
+
+8. Termination
+
+8.1 The rights granted under this Licence will terminate automatically if the Recipient fails to comply with any of its terms.
+
+8.2 If the Recipient cures the failure within 30 days of becoming aware of it, the rights will be reinstated.
+
+9. Governing Law and Jurisdiction
+
+9.1 This Licence does not define the governing law or jurisdiction. You are encouraged to specify the governing law and jurisdiction in a separate agreement or notice.

@@ -1,0 +1,20 @@
+*-backups
+fp-info-cache
+*.kicad_prl
+
+# KiCad Backups
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+_autosave-*
+
+# Lock files
+*.lck
+
+# Generated files
+*.net
+*.rpt
+
+
+.DS_Store
+**/**-backups*/*
