@@ -1,4 +1,4 @@
-# Colección de Proyectos PCB en KiCad
+# Colección de Proyectos Electronicos
 
 Este repositorio contiene una colección de diversos proyectos pequeños de diseño de PCB realizados en KiCad. Cada subdirectorio representa un proyecto independiente con sus propios esquemáticos y archivos de diseño.
 
@@ -7,6 +7,7 @@ Este repositorio contiene una colección de diversos proyectos pequeños de dise
 Actualmente, el repositorio incluye los siguientes proyectos:
 
 *   **board_7seg**: Proyecto base de visualización de 7 segmentos.
+*   
 *   **big-display**: Display de 7 segmentos de grande.
 
 ## 🚀 Requisitos

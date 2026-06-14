@@ -2,6 +2,10 @@
 
 Este proyecto consiste en una placa de circuito impreso (PCB) diseñada en KiCad para controlar y visualizar información utilizando displays de 7 segmentos.
 
+![schematic](board_7seg.png)
+
+![3D](board_7seg_3D.png)
+
 ## 📋 Descripción
 
 El objetivo de este diseño es proporcionar una interfaz visual simple mediante displays de 7 segmentos.
